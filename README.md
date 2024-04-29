@@ -1,5 +1,5 @@
 # Lista de Tarefas em JavaScript 📝
-Este é um projeto de conclusão do curso de JavaScript do canal "Programação Web". Você pode assistir à playlist do curso [aqui]([URL](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw)).
+Este é um projeto de conclusão do curso de JavaScript do canal "Programação Web". Você pode assistir à playlist do curso [aqui](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw).
 
 ## Como Usar 🚀
 1. Clone ou baixe este repositório para o seu computador.
